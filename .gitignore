@@ -1,0 +1,7 @@
+node_modules
+dist
+.omp
+# early design rounds and unused source copies, kept locally only
+mockups
+mockups2
+/assets
